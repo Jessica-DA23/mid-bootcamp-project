@@ -1,0 +1,391 @@
+cholesterol,glucose,chol/hdl_ratio,age,gender,bmi,systolic_bp,diastolic_bp,waist/hip_ratio,diabetes,bmi_category,cholesterol_category,waist/hip_ratio_category
+193,77,Normal,19,1,22.5,118,70,0.84,0,Normal,Normal,Moderate
+146,79,Normal,19,1,26.4,108,58,0.83,0,Overweight,Normal,Moderate
+217,75,Normal,20,1,29.3,110,72,0.89,0,Overweight,Boderline High,Moderate
+226,97,Normal,20,1,19.6,122,64,0.79,0,Normal,Boderline High,Low
+164,91,Low,20,1,20.2,122,86,0.82,0,Normal,Normal,Moderate
+170,69,Low,20,1,27.6,108,70,0.93,0,Overweight,Normal,High
+149,77,Low,20,1,21.0,105,82,0.84,0,Normal,Normal,Moderate
+164,71,Low,20,0,19.7,108,78,0.81,0,Normal,Normal,Low
+230,112,Normal,20,0,24.9,100,90,0.79,0,Normal,Boderline High,Low
+179,105,Low,20,1,35.5,140,100,0.74,0,Overweight,Normal,Low
+174,105,Low,20,0,26.8,132,86,0.9,0,Overweight,Normal,Moderate
+193,106,Normal,20,1,41.7,165,110,0.84,0,Overweight,Normal,Moderate
+132,99,Normal,21,1,28.1,112,62,0.91,0,Overweight,Normal,High
+203,84,Low,21,1,25.2,125,85,0.72,0,Overweight,Boderline High,Low
+135,88,Low,21,0,22.9,110,68,0.79,0,Normal,Normal,Low
+187,84,Low,21,1,28.0,138,88,0.91,0,Overweight,Normal,High
+244,89,Low,21,0,22.7,116,76,0.87,0,Normal,High,Moderate
+193,75,Normal,21,1,41.6,130,82,0.77,0,Overweight,Normal,Low
+165,76,Normal,22,1,20.2,112,78,0.8,0,Normal,Normal,Low
+172,70,Normal,22,1,25.4,90,48,0.92,0,Overweight,Normal,High
+217,81,Normal,22,1,31.1,120,75,0.92,0,Overweight,Boderline High,High
+223,75,Low,22,1,25.1,120,70,0.8,0,Overweight,Boderline High,Low
+136,81,Low,22,1,25.8,105,85,0.88,0,Overweight,Normal,Moderate
+175,91,Normal,23,1,39.1,110,80,0.88,0,Overweight,Normal,Moderate
+230,86,High,23,0,38.6,150,99,1.02,0,Overweight,Boderline High,High
+147,78,Normal,23,1,35.0,127,71,0.91,0,Overweight,Normal,High
+229,91,High,23,0,24.4,110,78,0.83,0,Normal,Boderline High,Low
+179,75,Normal,23,1,30.4,120,80,0.96,0,Overweight,Normal,High
+185,76,Normal,23,0,20.0,124,78,0.8,0,Normal,Normal,Low
+164,86,Normal,23,1,36.2,126,75,0.94,0,Overweight,Normal,High
+228,66,High,24,1,21.3,100,70,0.87,0,Normal,Boderline High,Moderate
+199,87,Normal,25,0,19.0,120,78,0.94,0,Normal,Normal,Moderate
+134,101,Normal,25,1,43.4,142,78,0.81,0,Overweight,Normal,Moderate
+169,104,Low,25,1,30.1,140,95,0.95,0,Overweight,Normal,High
+227,98,Normal,25,0,22.6,123,82,0.9,0,Normal,Boderline High,Moderate
+149,138,Low,26,1,31.8,148,92,0.83,0,Overweight,Normal,Moderate
+155,58,Low,26,0,23.0,110,76,0.86,0,Normal,Normal,Moderate
+179,90,Low,26,1,25.4,138,84,0.8,0,Overweight,Normal,Low
+283,83,Normal,26,0,30.8,158,104,0.93,0,Overweight,High,Moderate
+228,79,High,26,0,35.1,122,90,0.98,0,Overweight,Boderline High,High
+220,60,Normal,26,0,21.5,136,88,0.85,1,Normal,Boderline High,Low
+170,76,Low,27,1,21.1,122,86,0.76,0,Normal,Normal,Low
+201,100,Normal,27,1,24.1,121,75,0.91,0,Normal,Boderline High,High
+238,75,High,27,1,33.2,130,80,0.85,0,Overweight,Boderline High,Moderate
+190,92,Normal,27,1,34.9,150,106,0.83,0,Overweight,Normal,Moderate
+203,94,Normal,27,1,32.7,140,80,0.79,0,Overweight,Boderline High,Low
+226,100,Normal,27,0,42.7,130,100,0.94,0,Overweight,Boderline High,Moderate
+204,62,Low,27,1,29.0,110,90,0.8,0,Overweight,Boderline High,Low
+166,77,Low,27,0,19.1,110,58,0.87,0,Normal,Normal,Moderate
+241,92,High,27,1,31.7,120,75,0.95,0,Overweight,High,High
+164,94,Low,28,1,28.2,128,94,0.91,0,Overweight,Normal,High
+214,111,Normal,28,0,31.0,130,90,0.98,0,Overweight,Boderline High,High
+151,74,Normal,28,0,19.2,135,75,0.83,0,Normal,Normal,Low
+184,99,High,28,0,24.1,124,94,0.92,0,Normal,Normal,Moderate
+168,69,Normal,28,1,35.4,111,65,0.91,0,Overweight,Normal,High
+146,77,Low,28,1,21.6,120,90,0.88,0,Normal,Normal,Moderate
+189,96,Normal,28,1,34.3,136,52,0.84,0,Overweight,Normal,Moderate
+132,83,Normal,28,1,34.2,136,86,0.79,0,Overweight,Normal,Low
+179,77,Normal,29,0,25.8,122,68,0.97,0,Overweight,Normal,High
+135,88,Normal,29,1,20.5,118,61,0.7,0,Normal,Normal,Low
+163,69,Normal,29,1,18.1,125,60,0.83,0,Underweight,Normal,Moderate
+204,71,Normal,29,1,20.6,110,70,0.87,0,Normal,Boderline High,Moderate
+165,97,High,29,1,37.4,112,68,0.96,0,Overweight,Normal,High
+181,101,Normal,29,0,27.4,130,78,0.9,0,Overweight,Normal,Moderate
+194,269,High,29,1,24.7,120,70,0.83,1,Normal,Normal,Moderate
+158,74,Low,30,1,26.0,108,68,0.94,0,Overweight,Normal,High
+160,82,Normal,30,1,25.3,172,124,0.83,0,Overweight,Normal,Moderate
+181,77,Normal,30,1,41.5,162,108,0.85,0,Overweight,Normal,Moderate
+144,81,High,30,0,22.4,118,78,0.82,0,Normal,Normal,Low
+182,74,Normal,30,1,22.9,132,80,0.79,0,Normal,Normal,Low
+145,84,Low,30,1,27.5,102,56,0.79,0,Overweight,Normal,Low
+195,92,Normal,30,0,28.2,161,112,0.94,0,Overweight,Normal,Moderate
+207,75,Normal,30,0,24.4,118,62,0.85,0,Normal,Boderline High,Low
+192,124,High,30,0,33.9,142,79,0.84,0,Overweight,Normal,Low
+183,69,Normal,31,1,30.7,125,70,0.87,0,Overweight,Normal,Moderate
+176,92,Normal,31,1,26.5,110,72,0.86,0,Overweight,Normal,Moderate
+163,83,Low,31,1,20.0,136,86,0.73,0,Normal,Normal,Low
+188,77,Normal,31,1,35.5,122,70,0.89,0,Overweight,Normal,Moderate
+209,89,Normal,31,1,25.1,108,58,0.68,0,Overweight,Boderline High,Low
+179,77,Low,31,0,23.4,131,79,0.87,0,Normal,Normal,Moderate
+293,85,Normal,31,1,31.3,110,90,0.98,0,Overweight,High,High
+305,91,High,31,0,29.4,100,60,0.89,0,Overweight,High,Moderate
+191,155,Normal,31,1,43.3,140,87,0.95,1,Overweight,Normal,High
+155,81,Low,32,1,25.1,120,68,0.83,0,Overweight,Normal,Moderate
+179,85,Normal,32,1,32.7,140,96,0.79,0,Overweight,Normal,Low
+176,90,High,32,1,44.6,100,72,0.78,0,Overweight,Normal,Low
+244,101,High,32,0,30.4,132,90,0.89,0,Overweight,High,Moderate
+213,83,Normal,33,1,26.1,130,90,0.9,0,Overweight,Boderline High,Moderate
+217,87,High,33,1,34.0,140,90,0.91,0,Overweight,Boderline High,High
+151,85,Normal,33,0,45.5,110,90,0.9,0,Overweight,Normal,Moderate
+168,82,Normal,33,1,19.0,98,66,0.83,0,Normal,Normal,Moderate
+231,84,Low,33,0,24.1,140,70,0.92,0,Normal,Boderline High,Moderate
+262,93,High,33,1,30.1,110,68,0.72,0,Overweight,High,Low
+179,70,Normal,34,0,23.1,138,82,0.79,0,Normal,Normal,Low
+300,65,High,34,1,26.6,120,60,0.85,0,Overweight,High,Moderate
+248,94,Normal,34,0,26.5,132,86,0.86,0,Overweight,High,Moderate
+217,88,High,34,0,28.9,145,100,0.98,0,Overweight,Boderline High,High
+224,71,High,34,1,32.2,135,80,0.74,0,Overweight,Boderline High,Low
+171,85,Low,34,1,29.0,120,80,0.79,0,Overweight,Normal,Low
+174,90,Normal,34,0,29.3,142,92,0.86,0,Overweight,Normal,Moderate
+194,86,Low,35,0,25.7,115,64,0.89,0,Overweight,Normal,Moderate
+150,80,Normal,35,0,23.6,138,92,0.86,0,Normal,Normal,Moderate
+337,85,High,35,0,25.6,124,84,0.82,0,Overweight,High,Low
+239,97,Normal,35,0,21.8,122,62,0.84,0,Normal,Boderline High,Low
+218,126,High,35,0,25.0,139,90,0.95,0,Overweight,Boderline High,Moderate
+122,82,Low,36,1,25.5,110,80,0.91,0,Overweight,Normal,High
+225,83,High,36,0,30.1,149,89,0.95,0,Overweight,Boderline High,Moderate
+160,71,Normal,36,1,31.8,110,80,0.87,0,Overweight,Normal,Moderate
+191,76,High,36,0,27.0,100,66,0.9,0,Overweight,Normal,Moderate
+199,153,Low,36,1,41.2,118,66,0.9,0,Overweight,Normal,Moderate
+197,92,Normal,36,1,23.3,128,80,0.86,0,Normal,Normal,Moderate
+179,81,High,36,1,22.1,110,76,0.92,0,Normal,Normal,High
+186,74,Low,36,0,22.1,138,82,0.82,0,Normal,Normal,Low
+178,78,Low,36,0,23.1,130,79,0.85,0,Normal,Normal,Low
+224,85,High,36,0,30.3,150,99,0.9,0,Overweight,Boderline High,Moderate
+194,81,High,36,0,21.6,110,76,0.88,0,Normal,Normal,Moderate
+347,197,High,36,0,39.7,140,86,1.04,0,Overweight,High,High
+245,119,High,36,0,28.9,150,92,0.88,1,Overweight,High,Moderate
+227,75,High,37,0,34.3,140,84,0.87,0,Overweight,Boderline High,Moderate
+192,89,High,37,0,27.2,136,96,0.84,0,Overweight,Normal,Low
+215,64,Low,37,1,29.9,140,100,0.76,0,Overweight,Boderline High,Low
+214,67,Normal,37,1,24.9,108,76,0.81,0,Normal,Boderline High,Moderate
+243,52,Normal,37,1,40.0,110,82,0.86,0,Overweight,High,Moderate
+156,86,Normal,37,1,33.2,122,74,0.94,0,Overweight,Normal,High
+179,85,Normal,37,0,21.9,190,94,0.85,0,Normal,Normal,Low
+209,91,High,37,0,37.6,130,94,0.88,0,Overweight,Boderline High,Moderate
+232,87,High,37,0,38.3,140,95,0.91,0,Overweight,Boderline High,Moderate
+212,88,High,37,1,27.5,124,82,0.82,0,Overweight,Boderline High,Moderate
+199,130,Normal,37,1,38.4,136,84,0.82,0,Overweight,Normal,Moderate
+145,85,Normal,38,1,24.4,132,82,0.89,0,Normal,Normal,Moderate
+206,90,High,38,1,24.7,138,90,0.77,0,Normal,Boderline High,Low
+147,86,Normal,38,0,30.3,130,96,0.95,0,Overweight,Normal,Moderate
+302,81,High,38,1,34.8,128,82,0.8,0,Overweight,High,Low
+138,95,Normal,38,1,26.9,140,90,0.79,0,Overweight,Normal,Low
+215,128,High,38,1,40.8,102,68,0.84,0,Overweight,Boderline High,Moderate
+159,88,Normal,38,0,25.7,138,79,0.85,0,Overweight,Normal,Low
+268,90,High,38,1,32.1,142,100,0.83,0,Overweight,High,Moderate
+251,118,High,38,1,42.6,110,80,0.84,0,Overweight,High,Moderate
+216,155,High,38,0,22.0,110,60,0.92,0,Normal,Boderline High,Moderate
+203,299,Normal,38,1,42.5,136,83,0.87,1,Overweight,Boderline High,Moderate
+181,83,Normal,39,1,41.2,140,98,0.85,0,Overweight,Normal,Moderate
+239,85,Normal,39,0,28.1,162,90,0.79,0,Overweight,Boderline High,Low
+200,56,Normal,40,1,19.2,125,64,0.79,0,Normal,Normal,Low
+211,98,High,40,1,27.2,110,76,0.86,0,Overweight,Boderline High,Moderate
+152,103,Normal,40,1,48.6,148,82,0.78,0,Overweight,Normal,Low
+173,83,Normal,40,1,23.8,122,76,0.97,0,Normal,Normal,High
+215,72,High,40,0,27.1,180,122,0.95,0,Overweight,Boderline High,Moderate
+219,105,Normal,40,1,28.0,106,82,0.82,0,Overweight,Boderline High,Moderate
+180,76,Normal,40,1,25.1,128,82,0.86,0,Overweight,Normal,Moderate
+214,77,Normal,40,0,30.1,120,84,0.91,0,Overweight,Boderline High,Moderate
+171,92,Normal,40,0,29.8,138,94,1.05,0,Overweight,Normal,High
+183,79,Normal,40,1,33.3,135,84,0.86,0,Overweight,Normal,Moderate
+184,92,High,40,1,50.5,142,98,0.83,0,Overweight,Normal,Moderate
+180,84,Low,40,1,40.1,142,98,0.8,0,Overweight,Normal,Low
+191,74,High,40,0,36.6,136,70,0.92,0,Overweight,Normal,Moderate
+218,87,High,40,0,26.4,120,76,0.93,0,Overweight,Boderline High,Moderate
+169,85,Normal,40,1,30.0,106,82,0.91,0,Overweight,Normal,High
+267,133,High,40,1,41.2,118,69,0.85,1,Overweight,High,Moderate
+234,78,Normal,41,0,28.7,122,96,0.95,0,Overweight,Boderline High,Moderate
+206,112,High,41,1,33.7,104,80,0.89,0,Overweight,Boderline High,Moderate
+184,79,Normal,41,0,22.7,136,96,0.87,0,Normal,Normal,Moderate
+178,64,Normal,41,1,31.3,130,76,0.76,0,Overweight,Normal,Low
+179,80,Low,41,1,16.0,144,112,0.78,0,Underweight,Normal,Low
+225,84,Low,41,0,21.8,150,80,0.78,0,Normal,Boderline High,Low
+189,84,Normal,41,1,27.1,130,80,0.8,0,Overweight,Normal,Low
+199,76,Normal,41,1,34.9,120,78,0.85,0,Overweight,Normal,Moderate
+241,86,Normal,41,1,28.1,112,72,0.74,0,Overweight,High,Low
+170,106,Normal,41,1,20.8,103,64,0.97,0,Normal,Normal,High
+269,59,Normal,41,0,29.9,130,73,0.93,0,Overweight,High,Moderate
+269,73,High,41,1,29.3,126,90,0.95,0,Overweight,High,High
+270,73,High,42,0,29.9,146,94,0.95,0,Overweight,High,Moderate
+172,101,Normal,42,1,27.5,118,68,0.73,0,Overweight,Normal,Low
+193,77,Normal,42,1,23.2,125,90,0.8,0,Normal,Normal,Low
+199,81,High,42,1,36.8,178,100,0.9,0,Overweight,Normal,Moderate
+177,101,Normal,42,1,29.0,146,94,0.93,0,Overweight,Normal,High
+191,81,Normal,42,1,29.5,138,84,0.86,0,Overweight,Normal,Moderate
+208,122,Normal,42,1,25.8,118,78,0.83,0,Overweight,Boderline High,Moderate
+188,84,Normal,43,1,24.5,122,80,0.9,0,Normal,Normal,Moderate
+243,74,High,43,1,41.0,128,90,0.91,0,Overweight,High,High
+173,85,Low,43,1,31.0,130,75,0.94,0,Overweight,Normal,High
+162,76,Normal,43,0,33.8,100,70,0.93,0,Overweight,Normal,Moderate
+322,87,Normal,43,1,26.9,120,98,0.78,0,Overweight,High,Low
+254,84,Normal,43,1,26.5,125,70,0.82,0,Overweight,High,Moderate
+160,100,Normal,43,1,24.0,180,110,0.93,0,Normal,Normal,High
+192,109,Normal,43,1,55.8,141,79,0.85,0,Overweight,Normal,Moderate
+197,120,High,43,0,25.0,146,98,0.84,0,Overweight,Normal,Low
+237,87,High,43,1,31.1,104,90,0.78,0,Overweight,Boderline High,Low
+190,84,Normal,43,1,29.8,135,88,0.89,0,Overweight,Normal,Moderate
+190,228,Normal,43,1,32.9,110,64,0.82,1,Overweight,Normal,Moderate
+202,84,High,44,0,23.9,125,80,0.89,0,Normal,Boderline High,Moderate
+244,101,High,44,0,23.4,140,89,0.92,0,Normal,High,Moderate
+168,101,Low,44,1,27.5,130,88,0.93,0,Overweight,Normal,High
+260,67,High,44,1,29.1,140,94,0.84,0,Overweight,High,Moderate
+214,87,High,44,1,32.6,140,75,0.86,0,Overweight,Boderline High,Moderate
+207,187,Normal,44,1,31.5,150,74,0.94,1,Overweight,Boderline High,High
+203,71,Low,45,0,18.6,135,88,0.88,0,Normal,Boderline High,Moderate
+189,80,Normal,45,0,28.1,140,75,0.89,0,Overweight,Normal,Moderate
+216,109,Low,45,1,23.0,140,102,0.84,0,Normal,Boderline High,Moderate
+233,92,High,45,1,28.7,124,86,0.89,0,Overweight,Boderline High,Moderate
+177,87,Normal,45,0,24.5,160,80,0.85,0,Normal,Normal,Low
+191,83,Low,45,1,23.6,130,90,0.87,0,Normal,Normal,Moderate
+142,155,High,45,0,30.1,165,115,0.93,0,Overweight,Normal,Moderate
+219,130,Normal,45,0,34.1,172,110,0.91,1,Overweight,Boderline High,Moderate
+190,107,High,46,0,27.8,145,88,0.94,0,Overweight,Normal,Moderate
+203,82,Normal,46,1,22.1,118,59,0.76,0,Normal,Boderline High,Low
+207,102,Normal,46,1,31.7,212,114,0.83,0,Overweight,Boderline High,Moderate
+242,108,Normal,46,1,33.5,130,86,0.82,0,Overweight,High,Moderate
+183,81,Normal,47,1,30.0,140,97,0.89,0,Overweight,Normal,Moderate
+234,65,Normal,47,0,36.0,137,100,0.98,0,Overweight,Boderline High,High
+118,95,Low,47,1,21.1,140,76,0.83,0,Normal,Normal,Moderate
+266,82,Normal,47,0,21.6,118,78,0.9,0,Normal,High,Moderate
+223,90,Normal,47,1,38.6,120,86,0.85,0,Overweight,Boderline High,Moderate
+245,120,High,47,1,27.6,142,102,0.9,1,Overweight,High,Moderate
+173,225,High,47,0,34.3,150,98,0.89,1,Overweight,Normal,Moderate
+172,117,Normal,48,1,30.1,130,82,0.83,0,Overweight,Normal,Moderate
+190,74,Normal,48,0,15.2,120,85,0.82,0,Underweight,Normal,Low
+134,105,Normal,48,0,24.8,178,120,0.9,0,Normal,Normal,Moderate
+268,85,High,48,0,17.2,150,105,0.91,0,Underweight,High,Moderate
+209,87,High,48,1,21.4,111,62,0.84,0,Normal,Boderline High,Moderate
+201,81,Low,48,1,22.2,145,95,0.78,0,Normal,Boderline High,Low
+204,89,Normal,48,0,29.8,170,96,0.9,0,Overweight,Boderline High,Moderate
+307,87,High,49,0,28.3,120,80,0.98,0,Overweight,High,High
+189,75,Low,49,1,37.5,120,80,0.82,0,Overweight,Normal,Moderate
+160,196,Normal,49,0,37.1,150,98,1.09,1,Overweight,Normal,High
+237,233,Normal,49,1,34.6,130,90,0.91,1,Overweight,Boderline High,High
+158,91,Normal,50,0,25.1,136,90,0.9,0,Overweight,Normal,Moderate
+255,78,High,50,1,30.4,130,100,0.86,0,Overweight,High,Moderate
+196,115,Normal,50,0,21.9,176,110,0.95,0,Normal,Normal,Moderate
+185,67,Normal,50,1,39.1,142,90,0.78,0,Overweight,Normal,Low
+293,115,High,50,0,23.7,131,75,0.87,0,Normal,High,Moderate
+188,88,Normal,50,1,27.8,160,66,0.83,0,Overweight,Normal,Moderate
+174,173,High,50,0,37.7,159,99,0.8,0,Overweight,Normal,Low
+158,91,High,50,0,30.8,138,89,0.89,0,Overweight,Normal,Moderate
+181,255,High,50,0,44.6,140,86,1.14,1,Overweight,Normal,High
+140,385,Normal,50,0,25.4,138,66,0.9,1,Overweight,Normal,Moderate
+192,85,Low,51,0,24.3,130,110,0.92,0,Normal,Normal,Moderate
+284,89,High,51,1,27.3,140,100,0.74,0,Overweight,High,Low
+222,82,Low,51,1,17.8,150,110,0.76,0,Underweight,Boderline High,Low
+249,81,High,51,1,33.3,122,90,0.93,0,Overweight,High,High
+212,79,Normal,51,1,24.1,230,120,0.9,0,Normal,Boderline High,Moderate
+215,110,High,51,1,44.2,142,78,0.88,1,Overweight,Boderline High,Moderate
+218,182,Normal,51,1,34.7,139,69,0.79,1,Overweight,Boderline High,Low
+443,185,High,51,1,33.7,158,98,0.9,1,Overweight,High,Moderate
+218,68,Normal,52,1,31.1,142,79,0.93,0,Overweight,Boderline High,High
+171,97,Low,52,0,22.2,125,72,0.85,0,Normal,Normal,Low
+255,83,Low,52,0,17.2,170,110,0.91,0,Underweight,High,Moderate
+182,85,Normal,52,0,21.1,130,90,0.83,0,Normal,Normal,Low
+206,83,Low,52,0,22.6,140,98,0.9,0,Normal,Boderline High,Moderate
+261,101,Normal,52,1,34.0,152,92,0.86,0,Overweight,High,Moderate
+204,57,Low,52,0,17.7,140,90,0.89,0,Underweight,Boderline High,Moderate
+196,120,Low,52,1,26.9,144,94,0.81,1,Overweight,Normal,Moderate
+219,78,Normal,53,1,30.7,135,100,0.83,0,Overweight,Boderline High,Moderate
+273,94,High,53,1,29.9,160,96,0.79,0,Overweight,High,Low
+225,74,High,53,1,32.2,126,80,0.83,0,Overweight,Boderline High,Moderate
+185,84,Normal,53,1,27.4,147,72,0.93,0,Overweight,Normal,High
+242,297,High,53,0,31.9,142,96,0.96,1,Overweight,High,High
+296,369,High,53,0,25.5,138,94,0.9,1,Overweight,High,Moderate
+228,76,Normal,54,0,27.4,121,62,0.88,0,Overweight,Boderline High,Moderate
+194,87,Low,54,0,19.0,170,96,0.81,0,Normal,Normal,Low
+216,79,Normal,54,1,23.0,132,80,0.85,0,Normal,Boderline High,Moderate
+240,96,Normal,54,1,29.1,152,100,0.86,0,Overweight,Boderline High,Moderate
+148,193,High,54,1,25.8,140,65,1.0,0,Overweight,Normal,High
+271,103,Low,55,1,20.2,180,105,0.81,0,Normal,High,Moderate
+204,94,Normal,55,1,32.6,140,90,0.91,0,Overweight,Boderline High,High
+174,93,Low,55,0,20.1,118,86,0.97,0,Normal,Normal,High
+157,74,Normal,55,1,35.3,150,82,0.83,0,Overweight,Normal,Moderate
+263,89,High,55,1,35.8,108,72,0.9,0,Overweight,High,Moderate
+160,122,Normal,55,1,34.9,136,83,0.9,0,Overweight,Normal,Moderate
+179,236,Low,55,0,23.2,122,74,1.0,1,Normal,Normal,High
+208,95,High,56,0,27.8,131,75,0.92,0,Overweight,Boderline High,Moderate
+129,110,Normal,56,0,19.4,140,75,0.89,0,Normal,Normal,Moderate
+219,173,High,56,1,32.8,100,50,0.82,1,Overweight,Boderline High,Moderate
+404,206,High,56,0,23.5,162,88,0.97,1,Normal,High,High
+138,81,Normal,57,0,21.6,148,81,0.84,0,Normal,Normal,Low
+173,80,Low,57,0,20.2,124,64,0.86,0,Normal,Normal,Moderate
+209,176,Normal,57,1,28.3,115,68,0.92,1,Overweight,Boderline High,High
+228,92,High,58,1,48.4,190,92,0.86,0,Overweight,Boderline High,Moderate
+227,85,High,58,0,30.3,144,82,0.88,0,Overweight,Boderline High,Moderate
+201,106,Normal,58,0,34.7,186,102,1.05,0,Overweight,Boderline High,High
+251,94,High,58,1,27.3,174,75,0.93,0,Overweight,High,High
+211,48,High,58,0,27.7,162,78,0.88,0,Overweight,Boderline High,Moderate
+115,239,Normal,58,0,29.5,125,69,0.81,1,Overweight,Normal,Low
+204,113,High,59,0,24.7,148,76,1.03,0,Normal,Boderline High,High
+215,97,Normal,59,1,31.2,140,70,0.77,0,Overweight,Boderline High,Low
+221,126,Normal,59,1,32.4,130,78,0.87,0,Overweight,Boderline High,Moderate
+220,95,Normal,59,1,22.3,138,80,0.84,0,Normal,Boderline High,Moderate
+193,248,High,59,1,30.5,140,90,0.84,1,Overweight,Normal,Moderate
+195,108,Normal,59,1,26.9,150,102,0.88,1,Overweight,Normal,Moderate
+219,112,Low,59,0,27.4,146,92,0.93,1,Overweight,Boderline High,Moderate
+289,267,High,59,0,25.7,142,79,0.95,1,Overweight,High,Moderate
+198,92,Normal,60,0,23.4,126,78,0.9,0,Normal,Normal,Moderate
+192,56,Normal,60,1,24.5,130,70,0.78,0,Normal,Normal,Low
+242,82,Normal,60,1,26.0,130,90,0.87,0,Overweight,High,Moderate
+235,102,High,60,0,27.5,148,98,0.95,0,Overweight,Boderline High,Moderate
+277,119,Normal,60,1,24.2,140,86,0.85,0,Normal,High,Moderate
+162,90,Normal,60,1,21.4,110,64,0.94,0,Normal,Normal,High
+318,270,Low,60,1,27.8,132,72,0.86,0,Overweight,High,Moderate
+279,270,High,60,1,34.1,174,90,0.96,1,Overweight,High,High
+128,223,High,60,0,30.7,110,68,0.98,1,Overweight,Normal,High
+203,90,Normal,60,1,24.8,130,72,0.88,1,Normal,Boderline High,Moderate
+143,91,Normal,61,1,36.6,160,92,0.8,0,Overweight,Normal,Low
+300,103,High,61,1,26.5,138,78,0.91,0,Overweight,High,High
+206,94,Normal,61,1,35.2,180,96,0.87,0,Overweight,Boderline High,Moderate
+182,85,Normal,61,1,25.7,176,86,1.14,0,Overweight,Normal,High
+198,86,Low,61,0,19.5,138,76,0.87,0,Normal,Normal,Moderate
+211,225,High,61,1,25.5,190,100,0.95,1,Overweight,Boderline High,High
+265,330,High,61,0,24.5,170,88,0.95,1,Normal,High,Moderate
+204,128,Normal,62,0,27.4,141,81,0.93,0,Overweight,Boderline High,Moderate
+169,95,High,62,0,40.5,118,72,1.06,0,Overweight,Normal,High
+236,102,High,62,0,19.5,150,80,0.9,0,Normal,Boderline High,Moderate
+235,109,Normal,62,1,51.4,175,80,0.89,1,Overweight,Boderline High,Moderate
+196,206,Normal,62,1,32.6,178,90,0.9,1,Overweight,Normal,Moderate
+180,92,High,63,0,25.0,145,72,0.9,0,Overweight,Normal,Moderate
+194,54,Normal,63,0,26.0,184,76,0.88,0,Overweight,Normal,Moderate
+194,80,High,63,0,23.1,131,88,0.87,0,Normal,Normal,Moderate
+212,82,Normal,63,0,23.1,180,110,0.93,0,Normal,Boderline High,Moderate
+293,87,Low,63,1,30.7,142,80,1.04,0,Overweight,High,High
+194,95,High,63,1,43.9,140,100,0.83,0,Overweight,Normal,Moderate
+277,88,High,63,1,38.3,220,100,0.83,0,Overweight,High,Moderate
+157,91,Normal,63,0,24.5,106,82,1.03,0,Normal,Normal,High
+283,145,High,63,1,37.8,190,110,0.92,1,Overweight,High,High
+215,119,Normal,63,1,28.0,160,68,0.81,1,Overweight,Boderline High,Moderate
+342,251,High,63,1,33.4,178,88,0.98,1,Overweight,High,High
+202,81,Normal,64,1,30.5,190,118,0.94,0,Overweight,Boderline High,High
+255,100,High,64,0,34.5,134,74,0.94,0,Overweight,High,Moderate
+181,177,High,64,0,31.4,130,66,0.94,1,Overweight,Normal,Moderate
+249,90,High,64,0,27.8,138,80,1.07,1,Overweight,High,High
+249,197,High,64,1,28.2,151,85,0.8,1,Overweight,High,Low
+219,106,Normal,65,1,41.3,140,90,0.75,0,Overweight,Boderline High,Low
+229,95,Normal,65,1,27.6,125,64,0.88,0,Overweight,Boderline High,Moderate
+212,97,Normal,65,1,35.3,158,94,0.91,0,Overweight,Boderline High,High
+170,67,High,65,0,26.9,140,65,1.08,0,Overweight,Normal,High
+159,172,High,65,0,26.0,142,81,0.88,1,Overweight,Normal,Moderate
+224,341,High,65,0,30.9,160,80,0.98,1,Overweight,Boderline High,High
+263,82,Low,66,1,19.5,104,64,0.94,0,Normal,High,High
+184,76,Normal,66,0,23.8,130,75,0.98,0,Normal,Normal,High
+281,92,High,66,1,33.8,158,88,1.09,0,Overweight,High,High
+221,120,Low,66,1,22.3,110,64,0.82,0,Normal,Boderline High,Moderate
+188,174,High,66,0,31.9,160,78,0.94,0,Overweight,Normal,Moderate
+246,104,Normal,66,1,30.5,200,94,0.98,1,Overweight,High,High
+204,173,High,66,0,22.9,138,78,0.75,1,Normal,Boderline High,Low
+78,93,High,67,0,18.6,110,50,0.87,0,Normal,Normal,Moderate
+206,85,Normal,67,0,27.9,119,68,0.9,0,Overweight,Boderline High,Moderate
+174,125,Normal,67,0,30.1,119,72,0.84,0,Overweight,Normal,Low
+254,121,High,67,0,25.4,161,118,0.92,1,Overweight,High,Moderate
+198,118,Normal,68,1,22.0,130,70,0.84,0,Normal,Normal,Moderate
+143,371,Normal,68,0,24.7,138,82,0.86,0,Normal,Normal,Moderate
+207,77,Normal,68,0,30.2,199,115,0.88,0,Overweight,Boderline High,Moderate
+236,111,Low,68,1,22.5,142,96,0.78,0,Normal,Boderline High,Low
+260,68,Normal,69,1,36.1,158,98,0.94,0,Overweight,High,High
+242,74,Normal,70,1,32.3,140,65,0.87,0,Overweight,High,Moderate
+186,97,Normal,70,0,27.9,148,88,1.02,0,Overweight,Normal,High
+182,206,Normal,70,0,31.6,158,90,0.94,1,Overweight,Normal,Moderate
+289,111,High,70,1,43.0,126,80,0.94,1,Overweight,High,High
+231,70,Low,71,1,27.5,150,78,0.8,0,Overweight,Boderline High,Low
+199,85,Normal,71,0,25.2,136,86,0.95,0,Overweight,Normal,Moderate
+228,115,Normal,71,1,43.2,170,92,0.94,0,Overweight,Boderline High,High
+213,203,Low,71,1,29.2,150,80,0.81,1,Overweight,Boderline High,Moderate
+204,120,Normal,72,0,27.8,140,72,0.98,0,Overweight,Boderline High,High
+205,83,Normal,72,1,34.0,170,90,0.83,0,Overweight,Boderline High,Moderate
+213,76,High,72,1,27.7,130,60,1.0,0,Overweight,Boderline High,High
+207,71,Normal,72,0,25.8,138,88,0.98,1,Overweight,Boderline High,High
+235,106,High,73,0,30.4,134,78,0.93,0,Overweight,Boderline High,Moderate
+237,118,High,73,1,29.9,162,75,0.86,1,Overweight,Boderline High,Moderate
+306,92,High,74,0,27.2,140,72,0.95,0,Overweight,High,Moderate
+223,88,High,74,1,30.2,250,100,0.89,0,Overweight,Boderline High,Moderate
+296,262,Normal,74,1,32.4,159,99,0.88,1,Overweight,High,Moderate
+205,79,High,75,0,30.1,136,90,1.05,0,Overweight,Boderline High,High
+254,342,High,75,0,31.9,151,87,0.98,1,Overweight,High,High
+159,100,Low,76,0,30.3,116,53,0.98,0,Overweight,Normal,High
+196,82,Normal,76,0,25.6,158,78,0.9,0,Overweight,Normal,Moderate
+173,131,Low,76,1,19.3,160,60,0.94,0,Normal,Normal,High
+219,112,Low,76,0,18.0,125,82,0.88,0,Underweight,Boderline High,Moderate
+209,113,Normal,76,1,27.9,156,78,0.88,1,Overweight,Boderline High,Moderate
+215,80,Low,78,0,18.1,170,88,0.97,0,Underweight,Boderline High,High
+210,81,Low,78,0,23.4,110,70,0.97,0,Normal,Boderline High,High
+224,98,High,78,1,28.3,150,81,0.8,0,Overweight,Boderline High,Low
+195,171,High,78,0,27.8,130,82,1.0,0,Overweight,Normal,High
+235,91,High,79,1,22.3,142,70,0.89,0,Normal,Boderline High,Moderate
+292,235,High,79,0,23.7,170,90,0.95,1,Normal,High,Moderate
+157,92,Normal,80,0,29.6,156,88,0.98,0,Overweight,Normal,High
+252,161,Low,80,1,29.6,160,100,1.07,1,Overweight,High,High
+271,121,High,81,1,27.1,146,76,0.84,0,Overweight,High,Moderate
+240,88,Normal,82,1,30.1,180,86,0.89,0,Overweight,Boderline High,Moderate
+255,112,High,82,0,26.3,179,89,0.86,0,Overweight,High,Moderate
+227,105,High,83,1,25.2,150,90,0.88,0,Overweight,Boderline High,Moderate
+226,279,Normal,84,1,37.5,144,88,0.85,1,Overweight,Boderline High,Moderate
+301,90,Low,89,1,21.7,218,90,0.76,0,Normal,High,Low
+232,184,Low,91,1,24.0,170,82,0.92,1,Normal,Boderline High,High
+165,94,Low,92,1,39.7,160,82,1.0,0,Overweight,Normal,High

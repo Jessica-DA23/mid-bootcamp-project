@@ -1,0 +1,23 @@
+# Diabetes Prediction Project
+
+## Overview
+This project focuses on predicting diabetes using a machine learning model. Various factor such as cholesterol, glucose chol/hdl_ratio, age, BMI, systolic and diastolic blood pressure are considrered in the prediction
+
+Data
+The dataser udes for this project includes information on cholesterol, glucose, hdl_chol, chol/hdl_ratio, age, gende, height, weight, bmi, systolic_bp, diastolic_bp, waist, hip, waist/hip_ratioand diabetes. Additional preprocessing details can be found in the code.
+This data was provided by the Department of Medicine, University of Virginia School of Medicine.
+The data consist of 19 variables on 403 subjects from 1046 subjects who were interviewed in a study to understand the prevalence of obesity, diabetes. The 403 subjects were the ones who were actually screened for diabetes.
+
+
+Model Training
+The model is trained using a Logistic Regression Model and KNeighbors Model, considering the selected features. To improve de model some columns in the data were not used.
+The dataset is preprocessed, and techniques such as SMOTE are applied to handle imbalanced data. The Undersampling and Oversampling were were also used to see if there was any difference
+
+Evaluation
+Model evaluation includes key metrics such as precision, recall, F1-score, and accuracy. The model's performance is assessed based on these metrics. Additionally, a confusion matrix provides insights into the true positives, true negative, false positive, and false negative predictions.
+
+Results
+The project results showcase the effectiveness of the model in predicting diabetes. The best model was the Logistic Regression Model with the recall of 1.
+Looking at the graphs we do not see a clear relationship between the factors used and diabetes. It would be nice to work with a similar database but with more data, to see if we could observe any strong relationship between these factors and diabetes.
+
+Tableau link: https://public.tableau.com/app/profile/j.ssica.castelo/viz/Project_17000950813690/RelationbetweenDiabetesandCholHdlRatio?publish=yes
